@@ -2,9 +2,9 @@
   "name": "rholor",
   "version": "1.0.0",
   "description": "Generate random hexadecimal colors",
-  "main": "index.js",
+  "main": "rholor.js",
   "scripts": {
-    "test": "node tests/test.1.js"
+    "test": "mocha test/*.js"
   },
   "keywords": [
     "color",
@@ -15,5 +15,10 @@
     "javascript"
   ],
   "author": "Ian Fabs",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/ianfabs/rholor",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.x"
+  }
 }
