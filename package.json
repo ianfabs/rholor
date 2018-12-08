@@ -1,0 +1,19 @@
+{
+  "name": "rholor",
+  "version": "1.0.0",
+  "description": "Generate random hexadecimal colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.1.js"
+  },
+  "keywords": [
+    "color",
+    "hex",
+    "random",
+    "generate",
+    "html",
+    "javascript"
+  ],
+  "author": "Ian Fabs",
+  "license": "MIT"
+}
