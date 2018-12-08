@@ -19,6 +19,6 @@
   "repository": "https://github.com/ianfabs/rholor",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.21.x"
+    "mocha": "^5.2.0"
   }
 }
