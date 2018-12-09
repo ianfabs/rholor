@@ -37,6 +37,10 @@ and you should get something like
 ...
 ```
 
+## Playground
+
+Click [here](https://repl.it/repls/RepentantGorgeousEditor) to play around on REPL.IT
+
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
