@@ -21,11 +21,6 @@
 // To get to know more about the Universal Module Definition
 // visit: https://github.com/umdjs/umd
 
-  const rholor = ()=>{
-    const l='0123456789ABCDEF';
-    let c='#';
-    for(let i=0;i<6;i++){c+=l[Math.floor(Math.random()*16)]}
-    return c;
-  }
+  const rholor = () => ((1<<24)*Math.random()|0).toString(16);
   return rholor;
 }));
